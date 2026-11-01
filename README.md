@@ -9,7 +9,7 @@
 - `char`: 1 ไบต์
 - `short`: 2 ไบต์
 - `int`: 4 ไบต์
-- `long`: 4 ไบต์ (หรือ 8 ไบต์บน 64-bit Linux)
+- `long`: 4 ไบต์ หรือ 8 ไบต์ (บน 64-bit Linux)
 - `long long`: 8 ไบต์
 - `float`: 4 ไบต์
 - `double`: 8 ไบต์
